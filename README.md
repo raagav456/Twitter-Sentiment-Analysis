@@ -69,6 +69,11 @@ What are the most common words in the entire dataset? What are the most common w
   <img  src="https://user-images.githubusercontent.com/78891081/227777974-70a02f72-7d64-47b6-9e54-7754bc9f40c1.png" width = "600" height = "300" >
 </p>
 
+# Visualizing the Tweets
+
+![download (4)](https://user-images.githubusercontent.com/78891081/227779215-bb22f6aa-e7fc-4cd6-80e8-a45ce11cf9d2.png)
+
+
 # Main Packages Used
   
 ```
